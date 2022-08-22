@@ -18,4 +18,4 @@
 <img align="center" alt="SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   </div> <br/>
   
-  Atualmente, curso Desenvolvimento Full Stack na RecodePRO, uma instituição de caráter social, com foco à pessoas de vulnerabilidade social. Estou no mundo da programação há cerca de quatro meses e me apaixonando cada vez mais. Caminhando devagar, chegamos longe! ✨
+ 
